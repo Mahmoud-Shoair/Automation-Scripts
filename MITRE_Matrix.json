@@ -526,8 +526,5 @@
         }
     ],
     "versions": {
-        "attack": "11",
-        "layer": "4.3",
-        "navigator": "4.6.3"
     }
 }
