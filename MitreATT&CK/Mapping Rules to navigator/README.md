@@ -48,4 +48,4 @@ This file is a HTML file that can be used to visualize the matrix in the browser
 
 ## License
 
-This script is licensed under the [MIT License](LICENSE).
+This script is licensed under the [MIT License](https://github.com/yourusername/Automation-Scripts/blob/main/LICENSE).
